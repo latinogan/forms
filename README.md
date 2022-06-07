@@ -12,7 +12,7 @@
 [Live Demo Screenshot]
 
 <div align="center">
-      <img src="/screenshot/Capturadarkmodeform.JPG" width="400px"</img> 
+    <img src="/screenshot/Capturaform.JPG" width="400px"</img> 
 </div>
 
 
