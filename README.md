@@ -9,13 +9,21 @@
 
 ## Live Screenshot)
 
-[Live Demo Screenshor]
+[Live Demo Screenshot]
 
 <div align="center">
     <img src="/screenshot/Capturaform.JPG" width="400px"</img> 
 </div>
 
-![Screenshot](Capturaform.JPG)
+
+[Live Demo DarkMode]
+
+<div align="center">
+    <img src="/screenshot/Capturadarkmodeform.JPG" width="400px"</img> 
+</div>
+
+
+
 
 
 ## Getting Started
